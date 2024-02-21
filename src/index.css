@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: "Poppins";
+  line-height: 1.5;
+  --webkit-font-smoothing: antialiased;
+  --moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menaco, Consolas, "Courier New", monospace;
+}
